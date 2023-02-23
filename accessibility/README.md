@@ -1,3 +1,1 @@
 # Web Accessibility
-
-## learning objectives
